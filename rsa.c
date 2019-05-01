@@ -9,7 +9,7 @@ void main()
 	int e=3;						
 	printf("The Value of E is %d\n",e);
 	
-	int k = 2;                        //for some integers calculation
+	int k = 2;                        //for some integers calculation k < e
 	int d = (1 + (k*phi))/e;
 	printf("The Value of D is %d\n",d);
 		
