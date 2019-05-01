@@ -5,8 +5,8 @@ void main()
 	int n=p*q;						
 	float phi=(p-1)*(q-1);       
 	printf("The value of phi = %f\n", phi);
-	int e=3;						
 	
+	int e=3;						
 	printf("The Value of E is %d\n",e);
 	
 	int k = 2;                        //for some integers calculation
