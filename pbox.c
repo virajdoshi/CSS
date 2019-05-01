@@ -29,7 +29,7 @@ void main()
     for(int i = 0; i<strlen(b); i++)
     {
         int position = pbox[i/8][i%8];
-        c[position-1] = a[i];
+        c[position-1] = b[i];
     }
     printf("\nAfter permutation: ");
     for(int i = 0; i<64; i++)
